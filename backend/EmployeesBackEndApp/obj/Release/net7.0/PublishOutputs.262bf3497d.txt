@@ -1,0 +1,12 @@
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\EmployeesBackEndApp.exe
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\EmployeesBackEndApp.dll
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\EmployeesBackEndApp.deps.json
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\EmployeesBackEndApp.runtimeconfig.json
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\EmployeesBackEndApp.pdb
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nitin\Downloads\Clloud Demo\Code\articles-code\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
