@@ -7,15 +7,11 @@ This project demonstrates how to deploy a Dockerized .NET 8 Web API and React ap
 
 The repository also documents the equivalent deployment approach for Microsoft Azure and Google Cloud Platform.
 
-## Technologies
+## Backend
 
-- .NET 8
-- React
-- Docker
-- Docker Compose
-- Nginx
-- PostgreSQL
-- AWS EC2
-- Azure VM (Reference)
-- GCP Compute Engine (Reference)
+- .NET 8 Web API
+- Swagger
+- REST API
+- Health Endpoint
+- Ready for Docker Deployment
 
